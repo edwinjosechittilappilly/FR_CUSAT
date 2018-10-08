@@ -1,0 +1,6 @@
+create folder
+face and nonface
+data
+---face
+---nonface
+the output model ver one used 7406 for succesful results in 28x28
